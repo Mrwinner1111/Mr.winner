@@ -1,4 +1,4 @@
-#  *scrip lenkap* MR WINNER
+# MR WINNER
 
 # scrip lenkap
 ```apt update && apt upgrade 
@@ -8,5 +8,5 @@ apt install curl
 apt install nano
 git clone https://github.com/Mrwinner1111/Mr.winner
 cd Mrwinner
-sh.Winner.sh```
+sh Winner.sh
 *no copyright* 
