@@ -8,5 +8,7 @@ apt install curl
 apt install nano
 git clone https://github.com/Mrwinner1111/Mr.winner
 cd Mrwinner
-sh Winner.sh
-*no copyright* 
+sh Winner.sh```
+
+*scrip lenkap for mr winner*
+
